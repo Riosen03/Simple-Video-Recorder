@@ -10,6 +10,8 @@ OpenCV를 이용하여 만든 간단한 비디오 레코더
 
 ![Preview](preview.png)
 
+
 녹화 상태를 의미하는 빨간 원과 REC 글자는 실제 영상과 스냅샷에는 포함되지 않음.
 ![Snapshot](snapshot_0.png)
-[녹화 영상 보기](videos/record.avi)
+
+[녹화 영상 보기](record.avi)
